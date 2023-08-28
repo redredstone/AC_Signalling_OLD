@@ -1,4 +1,4 @@
-This License Agreement (the "Agreement") is entered into between the user ("You" or "Licensee") and the creator/owner of the software code contained in the GitHub repository located at [Repository URL] (the "Repository"). By accessing, downloading, or using the code in the Repository, You agree to be bound by the terms of this Agreement.
+This License Agreement (the "Agreement") is entered into between the user ("You" or "Licensee") and the creator/owner of the software code contained in the GitHub repository located athttps://github.com/redredstone/AC_Signalling (the "Repository"). By accessing, downloading, or using the code in the Repository, You agree to be bound by the terms of this Agreement.
 
 Grant of License
 Subject to the terms and conditions of this Agreement, the creator/owner of the Repository (the "Licensor") hereby grants You a non-exclusive, non-transferable, revocable license to use, modify, and distribute the code in the Repository solely for personal and non-commercial purposes.
